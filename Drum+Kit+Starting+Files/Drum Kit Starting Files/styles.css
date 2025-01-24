@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.w {
+background-image: url("images/11111.jpg")
+}
+
+.a {
+  background-image: url("images/sexy.webp")
+}
+
+.s {
+  background-image: url("images/jjjj.jpeg")
+}
+
+.d {
+  background-image: url("images/ffff.jpg")
+}
+
+.j {
+  background-image: url("images/01.jpg")
+}
+
+.k {
+  background-image: url("https://img.freepik.com/premium-photo/hot-russian-model_751509-1121.jpg")
+}
+
+.l {
+  background-image: url("https://pics-storage-1.ok.porn/contents/albums/main/1920x1080/50000/50240/2684716.jpg")
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 30px 40px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
